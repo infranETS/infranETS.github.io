@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
-description: > # "Write an awesome description for your new site here. 
+url: https://infranets.github.io/
+title: infranETS
+email: o.gregoire07@gmail.com
+author: infranETS
+description: > # "infranETS, votre club étudiant en technologie de l'informations 
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
   description.
