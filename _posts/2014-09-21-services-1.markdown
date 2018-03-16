@@ -2,7 +2,16 @@
 layout: default
 img: logo.png
 category: Services
-title: Dévoilement infranETS
+title: Dévoilement infraNets
 description: |
 ---
-  Venez vite, yaura des chips et tout... [event](https://www.facebook.com/events/1587148684704519/) + photo   
+Venez découvrir le projet InfraNets !<br><br>
+
+Avis aux étudiants passionnés de technologies de l'information : si des mots tels que réseaux, systèmes, cloud, infrastructures, sécurité, virtualisation ou même internet des objets sont des concepts qui stimulent votre intérêt, alors attendez vous à être comblé !<br>
+
+En effet, dans l'optique de pouvoir accompagner les étudiants dans leur parcours et leur proposer un environnement propice au développement de leurs compétences/expertise, le comité TI a décidé de lancer InfraNets !!<br>
+
+Vous êtes donc cordialement invité à la soirée de dévoilement, qui aura lieu ce mercredi 28 mars à partir de 18h, dans la salle des pas perdus du bâtiment A.<br>
+
+De plus amples informations détails suivrons, mais sachez qu'il est obligatoire d'être enregistré pour assister à la séance (car des cadeaux sont à prévoir pour les participants !)<br>
+[lien évenement](https://www.facebook.com/events/1587148684704519/)  

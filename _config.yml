@@ -3,13 +3,9 @@
 # ----------------------- #
 
 url: https://infranets.github.io/
-title: infranETS
+title: infraNets
 email: o.gregoire07@gmail.com
-author: infranETS
-description: > # "infranETS, votre club étudiant en technologie de l'informations 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
+author: infraNets
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -24,7 +20,7 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: facebook
-    url: https://www.facebook.com/infranets/?ref=br_rs
-  - title: github
-    url: https://github.com/orgs/infranETS/
+ # - title: facebook
+  #  url: https://www.facebook.com/infranets/?ref=br_rs#
+ # - title: github#
+  #  url: https://github.com/orgs/infranETS/#
