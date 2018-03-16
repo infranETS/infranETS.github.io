@@ -5,4 +5,4 @@ category: Services
 title: Dévoilement infranETS
 description: |
 ---
-  Venez vite, yaura des chips et tout... lien event + photo
+  Venez vite, yaura des chips et tout... [event](https://www.facebook.com/events/1587148684704519/) + photo   
